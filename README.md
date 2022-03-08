@@ -18,7 +18,7 @@ NODE_ENV = 'production'
 ## Pre-requisites
 - An account on Edgeware with Test EDG - or local node running (for local edgeware blockcahin)
 
-Currently, the app can be used on https://beresheet-faucet.vercel.app/, but the domain is likely to change and shall be updated here.
+Currently, the app can be used on https://faucet-beresheet.vercel.app/, but the domain is likely to change and shall be updated here.
 
 ## Getting Started
 
